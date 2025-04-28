@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Fichier de configuration XML pour le module UmarexGroup -->
-<!-- @By Copilot -->
 <config>
     <module>
-        <name>umarexgroup</name>
+        <name>umarextabgroup</name>
         <version>1.0.0</version>
-        <author>Umarex</author>
+        <author>Umarex-France</author>
     </module>
 </config>

@@ -8,7 +8,7 @@
  *
  * @Copilot
  */
-class AdminUmarexGroupController extends ModuleAdminController
+class AdminUmarexTabGroupController extends ModuleAdminController
 {
     /**
      * Constructeur du contrôleur.
